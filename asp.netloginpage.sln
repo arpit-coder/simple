@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp.netloginpage", "asp.netloginpage\asp.netloginpage.csproj", "{D199B497-06B3-4A8B-A09F-29D141C4DD2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "studentproject", "..\studentproject\studentproject\studentproject.csproj", "{58B82045-1C4B-43D8-9995-0FFC1BC744DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D199B497-06B3-4A8B-A09F-29D141C4DD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D199B497-06B3-4A8B-A09F-29D141C4DD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D199B497-06B3-4A8B-A09F-29D141C4DD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D199B497-06B3-4A8B-A09F-29D141C4DD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B82045-1C4B-43D8-9995-0FFC1BC744DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B82045-1C4B-43D8-9995-0FFC1BC744DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B82045-1C4B-43D8-9995-0FFC1BC744DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B82045-1C4B-43D8-9995-0FFC1BC744DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F3F722B-665A-454E-9A92-D4E9C6E484FC}
+	EndGlobalSection
+EndGlobal
